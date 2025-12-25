@@ -5,7 +5,7 @@
         "y": 32
     },
     "license": "CC-BY-SA-3.0",
-    "copyright": "Created by TheShuEd (github) for Space Station 14",
+    "copyright": "Taken from Shiptest https://github.com/shiptest-ss13/Shiptest, modified into RSI form by Jacki3saursrex2",
     "states": [
         {
             "name": "small"
